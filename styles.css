@@ -214,7 +214,7 @@ html {
 
 .selfie
 {
-  padding: 10% 0% 20% 30%;
+  padding: 30% 0% 20% 30%;
   max-width: 100%;
 }
 
@@ -280,6 +280,7 @@ margin: 1% 0 auto 0;
   background-size: cover;
   width: 100%;
   height: auto;
+  margin-top: 2rem;
 }
 
 .quote h3 {
